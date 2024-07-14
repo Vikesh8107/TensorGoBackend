@@ -68,7 +68,7 @@ tensorgo-backend/
 │   └── invoiceRoutes.js      # Routes for invoice endpoints
 ├── .env                      # Environment variables
 ├── app.js                    # Main app configuration
-├── server.js                 # Server entry point
+├── index.js                 # Server entry point
 ├── firebaseServiceAccountKey.json  # Firebase service account key
 ├── package.json              # Project metadata and dependencies
 └── README.md                 # Project documentation
