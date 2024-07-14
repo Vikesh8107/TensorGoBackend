@@ -28,7 +28,7 @@ Before you begin, ensure you have the following installed on your machine:
 1. Clone the repository:
     ```bash
     git clone https://github.com/Vikesh8107/TensorGoBackend.git
-    cd tensorgo-backend
+    cd TensorGoBackend
     ```
 
 2. Install the dependencies:
@@ -53,7 +53,7 @@ Before you begin, ensure you have the following installed on your machine:
 
 To start the server in development mode, run:
 ```bash
-npm run dev
+npm start
 ```
 
 The server will start on the port specified in the `.env` file (default is 5000). You can access it at `http://localhost:5000`.
