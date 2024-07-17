@@ -2,6 +2,10 @@
 
 This is the backend for the TensorGo application. It handles API requests, database interactions, and other server-side logic. This project is built using Node.js, Express, Firebase Firestore, and integrates with Zapier for webhooks.
 
+## Tech stack used.
+Node Js
+Express Js
+
 ## Table of Contents
 
 1. [Prerequisites](#prerequisites)
